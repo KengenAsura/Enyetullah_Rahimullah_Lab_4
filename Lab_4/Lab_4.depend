@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1697691981 source:d:\projects\lab_4\employee.cpp
+	<string>
+	<cstdlib>
+	"Employee.h"
+
+1697768417 d:\projects\lab_4\employee.h
+
+1697828440 source:d:\projects\lab_4\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"Manager.h"
+
+1697828440 source:d:\projects\lab_4\manager.cpp
+	<string>
+	<cstdlib>
+	"Manager.h"
+	"Employee.h"
+
+1697828440 d:\projects\lab_4\manager.h
+	"Employee.h"
+
